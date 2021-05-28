@@ -1,0 +1,15 @@
+{
+  "name": "validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validation.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Farzin K",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
